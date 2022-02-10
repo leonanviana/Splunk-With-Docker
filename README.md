@@ -6,6 +6,8 @@ Mostrar o passo a passo para containerização do Splunk e arquivos de configura
 
 Mostrar exemplo de troubleshooting de Logs do Container e ajuste do mesmo.
 
+*Sobre o Splunk:* Ferramenta para Observability, tracing, logs, entre outras coisas para Monitoramento e Insights!!!
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **QUICKSTART:**
 
