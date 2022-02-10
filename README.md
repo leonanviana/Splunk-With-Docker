@@ -27,7 +27,7 @@ Após iremos iniciar uma instância do Splunk, utilizando alguns argumentos no c
 
 *Command Line:* docker run -d -p 8000:8000 -e "SPLUNK_START_ARGS=--accept-license" -e "SPLUNK_PASSWORD=<password>" --name splunk splunk/splunk:latest
 
-1- *splunk/splunk:latest:* Image baixada pelo pull do repositório do Docker Hub utilizando a TAG latest como a última versão ou a mais recente do Splunk.
+1- *splunk/splunk:latest:* Image repositório do Docker Hub utilizando a TAG latest como a última versão ou a mais recente do Splunk.
   
 2- *-p 8000:8000:* Expondo a porta 8000 do Host para utilização da aplicação containerizada.
   
